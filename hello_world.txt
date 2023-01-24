@@ -5,3 +5,6 @@ This will get uploaded to GitHub with the command git commit -m "yadayada"
 Another update. Let's see...
 
 YAYAYA git commit
+
+Okay cool, I can restore changes.
+Now let's commit these changes to the staging area "index"
